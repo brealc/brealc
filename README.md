@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brealc&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Brenno-C#" height="30" width="40" src="https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts">
+  <img align="center" alt="Brenno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
